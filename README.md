@@ -6,7 +6,7 @@
 
 
 
-##### Bagic : 협업 및 소스관리를 위한 기본적인 Push/Pull/Branch/Merge를 연습한다.
+##### Basic : 협업 및 소스관리를 위한 기본적인 Push/Pull/Branch/Merge를 연습한다.
 
 - git status
 - git add
